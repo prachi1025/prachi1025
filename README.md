@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prachi1025
 - 👀 I’m interested in web development and website designing
-- 🌱 I’m currently learning data structues
+- 🌱 I’m currently learning data structures
 - 📫 How to reach me prachipargal123@gmail.com
 
 <!---
