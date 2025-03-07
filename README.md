@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prachi1025
+- 👋 Hi, I’m Prachi
 - 👀 I’m interested in web development and website designing
 - 🌱 I’m currently learning data structures
 - 📫 How to reach me prachipargal123@gmail.com
